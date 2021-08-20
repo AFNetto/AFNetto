@@ -1,5 +1,5 @@
-- # HI,👋 Felipe Neto!
-- 👀 I’m interested in robótica, automação e microeletrônica
+- # HI,👋 I'm Felipe Neto!
+- 👀 I’m interested in robotcsa, automation e microelectronics
 - 🌱 I’m currently learning ROS and CoppeliaSim
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afmeloneto/)](https://www.linkedin.com/in/afmeloneto/) 
 <!---
